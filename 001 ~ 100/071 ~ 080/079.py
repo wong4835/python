@@ -1,0 +1,1 @@
+del icecream['Melona']
